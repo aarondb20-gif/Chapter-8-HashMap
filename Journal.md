@@ -5,3 +5,6 @@ search query uses HashMaps .get function to find and return the value of the key
 than arrays or ArrayLists, because the arrays search function works in linear time and HashMaps work in constant time.
 They also allow you to create strings for keys for each entry like "Mom's phone number" for a key value pair instead of
 only having a numerical index tied to a value.
+
+I know how to read the lines of text with the file scanner, but I was having trouble figuring out how to check if a
+line is the same species and add to the count.
